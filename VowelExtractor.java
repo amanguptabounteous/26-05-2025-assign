@@ -57,6 +57,5 @@ public class VowelExtractor {
             }
         }
         return count;
-        //comment 1
     }
 }
